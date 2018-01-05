@@ -1,0 +1,86 @@
+#father{
+				width: 900px;
+				margin: auto;
+			}
+			#logo_left{
+				float:left;
+			}
+			#logo_right{
+				float: right;
+				margin-top: 30px;
+			}
+			.clear{
+				clear: both;
+			}
+			ul li{
+				display: inline;
+			}
+			#nag{
+				background-color: #999999;
+				height: 45px;
+				padding-top:3px ;
+			}
+			ul a:link{
+				color:white
+			}	
+			
+			ul a:visited{
+				color:white
+			}
+			ul a:hover{
+				color: black;
+			}
+			ul a:active{
+				color: cornflowerblue;
+			}
+			ul a{
+				/*去除下划线*/
+				text-decoration: none;
+			}
+			#pro_left{
+				width: 25%;
+				
+				float: left;
+			}
+			#pro_right{
+				width: 75%;
+				
+				float: left;
+			}
+			.product{
+				text-align: center;
+				width: 25%;
+				float:left;
+			}
+			.product p{
+				margin-top: 0px;
+			}
+			#mlink{
+				text-align: center;
+				font-family: "微软雅黑";
+				font-size: 15px;
+				
+			}
+			#mlink a{
+				margin-right: 20px;
+				text-decoration: none;
+			}
+			#mlink a:link{
+				color: black;	
+			}
+			#mlink a:visited{
+				color: black;	
+			}
+			#mlink a:hover{
+				color:#999;	
+			}
+			#mlink a:active{
+				color:cadetblue;	
+			}
+			#mCopy{
+				text-align: center;
+				color: black;
+				font-size: 15px;
+				margin-bottom: 30px;
+				margin-top: 20px;
+			}

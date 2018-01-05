@@ -1,0 +1,27 @@
+@CHARSET "UTF-8";
+div{margin:0px;padding: 0px;}
+			a{text-decoration: none;}
+			a:link{color:black}
+			a:visited{color:black}
+			a:hover{color:darkgray}
+			a:active{color:red}
+			#shouye{width:900px;margin: auto;border: 1px solid ;}
+			#logoleft{float: left;}
+			#logoright{float:right;padding-right: 30px;padding-top: 30px;}
+			#logoright a{margin: 0 5px;}
+			.clear{clear:both}
+			#nag{width: 900px;height:50px;background-color: #A9A9A9;}
+			ul li{float: left;list-style:none ;margin:13px 10px;}
+			.pageUl,li{float: right;}
+			ul a:hover{color:cyan}
+			#banner{width:900px;height: 294px;}
+			#baokuan{width:900px;height: 60px;border-bottom: 1px  darkgrey solid;}
+			#list{width:900px;height:900px;}
+			#list .list_left{width:25%;height: 900px;float: left;}
+			#list .list_right{width:75%;height: 900px;float: right;}
+			#list .proimg{width:100%;height: 860px;}
+			.pro{width:166.75px;height:203px;float: left;padding-top:10px;text-align:center;border: 1px  darkgrey solid;}
+			.pro p{margin: 0 -4px;font-size:15px;width:166.75px}
+			#laws{text-align: center;border-top: 1px  darkgrey solid;}
+			#laws a{margin:10px 5px;font: 16px 黑体 ;}
+			#last{text-align: center;font: 16px 黑体 ;}
